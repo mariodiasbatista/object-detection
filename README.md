@@ -1,19 +1,15 @@
 # 🚀 object-detection
 
-**Demonstrate a very simple flow in object detection stages :**
+**Demo a simple flow in object detection stages :**
 
   **Training**
   
-   - *Anotated Images from https://storage.googleapis.com/openimages/web/visualizer/index.html (easy process)*
+   - *Anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)*
    
-   - *Custom anoteted images from the user (hard process)*
+   - *Custom annotated images from the user (hard process)*
 
   **Inference**
-  - *Put the model running in real scenarios wiht reandom object and see the output.*
-    
-  
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner)  
-*(Replace this with a real image!)*  
+  - *Put the model running in real scenarios with random object and see the output.*
 
 ## 📌 Table of Contents  
 
@@ -26,19 +22,24 @@
 - [License](#license)  
 
 ## 📖 About  
-
-Describe what your project does, why it exists, and its use case.  
+  
+With this project i will demo the object detection with a neural network using YOLO it will use simple scenários with images and videos and the result will be a clear compreension how the process works.
+Also the dependencies of this project like GPU servers will be addressed on the wiki page, the dependencies are a key part in the process on optimization of the training and inference. 
 
 ## ✨ Features  
 
-✅ Feature 1  
-✅ Feature 2  
-✅ Feature 3  
+✅ Train with anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)
+✅ Train with custom anotated Images from the user (hard process)
+✅ Inference, put the trained model detecting on image 
+✅ Inference, put the trained model detecting on video 
+✅ Results
 
 ## 🔧 Installation  
+For a quick instalation execute the darknet_compile.sh on yout working dir.
+If any issues or error on the Installation see the Wiki on Troubshooting under Instalation Section. 
 
 ```bash
-git clone https://github.com/your-username/your-repo.git  
-cd your-repo  
-composer install  # or npm install / pip install  
+git clone https://github.com/mariodiasbatista/object-detection.git) 
+cd object-detection 
+./darknet_compile.sh  
 
