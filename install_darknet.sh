@@ -31,4 +31,5 @@ sudo apt clean
 
 echo "Darknet Compile - Done !!!"
 
+#build darknet libs
 make
