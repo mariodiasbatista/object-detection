@@ -29,7 +29,8 @@ apt -y install libopencv-dev pkg-config
 # Clean up after installation
 sudo apt clean
 
-echo "Darknet Compile - Done !!!"
+echo "Darknet Dependencies - Done !!!"
 
 #build darknet libs
 make
+echo "Darknet Compile - Done !!!"
