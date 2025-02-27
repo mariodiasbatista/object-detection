@@ -1,15 +1,10 @@
 # 🚀 object-detection
 
-**Demo a simple flow in object detection stages :**
+**Demo a simple flow in object detection in some scenarios approaching  :**
 
   **Training**
-  
-   - *Anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)*
-   
-   - *Custom annotated images from the user (hard process)*
 
   **Inference**
-  - *Put the model running in real scenarios with random object and see the output.*
 
 ## 📌 Table of Contents  
 
@@ -26,13 +21,17 @@
 With this project i will demo the object detection with a neural network using YOLO it will use simple scenários with images and videos and the result will be a clear compreension how the process works.
 Also the dependencies of this project like GPU servers will be addressed on the wiki page, the dependencies are a key part in the process on optimization of the training and inference. 
 
-## ✨ Features  
+## ✨ Scenarios  
 
 ✅ Train with anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)
+
 ✅ Train with custom anotated Images from the user (hard process)
+
 ✅ Inference, put the trained model detecting on image 
+
 ✅ Inference, put the trained model detecting on video 
-✅ Results
+
+✅ Check Results
 
 ## 🔧 Installation  
 For a quick instalation execute the darknet_compile.sh on yout working dir.
