@@ -26,4 +26,4 @@ else
 fi
 
 #clear predictions file
-rm darknet/predictions.jpg
+rm predictions.jpg
