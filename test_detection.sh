@@ -24,3 +24,6 @@ if [[ -n "$filepath" ]]; then
 else
     echo -e "${RED} Prediction file not found. \n${NC}"
 fi
+
+#clear predictions file
+rm darknet/predictions.jpg
