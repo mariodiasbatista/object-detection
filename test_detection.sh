@@ -7,15 +7,16 @@ wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optim
 
 output=$(./darknet detect cfg/yolov4.cfg yolov4.weights data/person.jpg) 
 
-if [[ "$output" == *"dog"* && "$output" == *"person"* &&  "$output" == *"horse"*]]; then
+if [[ "$output" == *"dog"* && "$output" == *"person"* &&  "$output" == *"horse"* ]]; then
     echo "Detection is working!"
 else
     echo "Not Detecting!"
 fi
 
 filepath=$(find . -name predictions.jpg | head -n 1)
-if filepath | grep -q .; then
+
+if [[ -n "$filepath" ]]; then
     echo "Predictions generated at: $filepath"
 else
-    echo "Prediction File not found."
+    echo "Prediction file not found."
 fi
