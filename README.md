@@ -23,15 +23,15 @@ Also the dependencies of this project like GPU servers will be addressed on the 
 
 ## ✨ Scenarios  
 
-✅ Train with anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)
+✅ 1- Train with anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)
 
-✅ Train with custom anotated Images from the user (hard process)
+✅ 2- Train with custom anotated Images from the user (hard process)
 
-✅ Inference, put the trained model detecting on image 
+✅ 3- Inference, put the trained model detecting on image 
 
-✅ Inference, put the trained model detecting on video 
+✅ 4- Inference, put the trained model detecting on video 
 
-✅ Check Results
+✅ 5- Check all Results
 
 ## 🔧 Installation  
 For a quick instalation execute the darknet_compile.sh on yout working dir.
