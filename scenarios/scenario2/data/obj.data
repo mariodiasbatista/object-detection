@@ -1,0 +1,5 @@
+classes = 1
+train = ../scenarios/scenario2/data/train.txt
+valid = ../scenarios/scenario2/data/test.txt
+names = ../scenarios/scenario2/data/obj.names
+backup = ../scenarios/scenario2/bck
