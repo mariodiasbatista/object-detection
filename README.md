@@ -2,9 +2,9 @@
 
 **Demo a simple flow in object detection in some scenarios approaching  :**
 
-  **Training**
+  * **Training**
 
-  **Inference**
+  * **Inference**
 
 ## 📌 Table of Contents  
 
