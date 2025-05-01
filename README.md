@@ -9,7 +9,7 @@
 ## 📌 Table of Contents  
 
 - [About](#about)  
-- [Features](#features)  
+- [Scenarios](#scenarios)  
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [Configuration](#configuration)  
