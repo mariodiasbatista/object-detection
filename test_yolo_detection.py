@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # Load a YOLO model (choose one you have or download)
-model = YOLO("yolov11n.pt")  # or yolov11s.pt, yolov11m.pt, etc.
+model = YOLO("yolo11n.pt")  # or yolov11s.pt, yolov11m.pt, etc.
 
 # Define your test input (image or video path)
 testDetector = "test_detector.jpg"
