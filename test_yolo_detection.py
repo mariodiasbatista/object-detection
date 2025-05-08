@@ -4,7 +4,7 @@ from ultralytics import YOLO
 model = YOLO("yolov8n.pt")  # or yolov8s.pt, yolov8m.pt, etc.
 
 # Define your test input (image or video path)
-testDetector = "path/to/image.jpg"
+testDetector = "test_detector.jpg"
 
 # Run detection
 results = model.predict(source=testDetector)
