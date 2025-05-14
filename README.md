@@ -2,9 +2,9 @@
 
 **Demo a simple flow in object detection in some scenarios approaching  :**
 
-  * **Training**
+  * **[Training](https://github.com/mariodiasbatista/object-detection/wiki/Training)**
 
-  * **Inference**
+  * **[Inference](https://github.com/mariodiasbatista/object-detection/wiki/Inference)**
 
 ## 📌 Table of Contents  
 
