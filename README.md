@@ -34,11 +34,9 @@ Also the dependencies of this project like GPU servers will be addressed on the 
 ✅ 5- Check all Results
 
 ## 🔧 Installation  
-For a quick instalation execute the darknet_compile.sh on yout working dir.
-If any issues or error on the Installation see the Wiki on Troubshooting under Instalation Section. 
+For the instalation clone the project
+and follow the [Installation](https://github.com/mariodiasbatista/object-detection/wiki/Installation) Section. 
 
 ```bash
-git clone https://github.com/mariodiasbatista/object-detection.git) 
-cd object-detection 
-./darknet_compile.sh  
-
+git clone https://github.com/mariodiasbatista/object-detection.git
+```
