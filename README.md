@@ -23,15 +23,15 @@ Also the dependencies of this project like GPU servers will be addressed on the 
 
 ## ✨ Scenarios  
 
-✅ 1- Train with anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)
+[**✅ 1**-](https://github.com/mariodiasbatista/object-detection/wiki/Scenarios#scenario-1) Train with anotated Images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/visualizer/index.html) (easy process)
 
-✅ 2- Train with custom anotated Images from the user (hard process)
+[**✅ 2**-](https://github.com/mariodiasbatista/object-detection/wiki/Scenarios#scenario-2) Train with custom anotated Images from the user (hard process)
 
-✅ 3- Inference, put the trained model detecting on image 
+[**✅ 3**-](https://github.com/mariodiasbatista/object-detection/wiki/Scenarios#scenario-3) Inference, put the trained model detecting on image 
 
-✅ 4- Inference, put the trained model detecting on video 
+[**✅ 4**-](https://github.com/mariodiasbatista/object-detection/wiki/Scenarios#scenario-4) Inference, put the trained model detecting on video 
 
-✅ 5- Check all Results
+[**✅ 5**-](https://github.com/mariodiasbatista/object-detection/wiki/Scenarios#scenario-5) Check all Results
 
 ## 🔧 Installation  
 For the instalation clone the project
